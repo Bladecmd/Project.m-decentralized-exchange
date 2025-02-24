@@ -1,4 +1,7 @@
+#Decentralized Exchange
+
 Decentralized Exchange
+
 This project is a decentralized exchange (DEX) built using Solidity for smart contracts, Hardhat for development, and React for the frontend. It enables token trading and blockchain interaction.
 
 🚀 Features
