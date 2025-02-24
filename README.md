@@ -27,6 +27,8 @@ project.m/
 ├── test/                     # Smart contract tests
 └── .gitignore                # Git ignore file
 
+
+
 📧 Technologies Used
 Solidity: For smart contract development.
 Hardhat: For deploying and testing contracts.
