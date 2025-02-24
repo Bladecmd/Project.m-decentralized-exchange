@@ -6,10 +6,8 @@ Smart Contracts: Core functionality powered by Solidity (CustomTokenExchange, Ex
 Deployment: Includes deployment scripts (1_deploy.js, 2_Seed_Exchange.js).
 Public Interface: Frontend for user interaction with the exchange.
 Testing: Test files to verify smart contract functions (test/).
-📂 Project Structure
-bash
-Copy
-Edit
+
+
 project.m/
 ├── contracts/                # Smart contracts (Solidity)
 │   ├── CustomTokenExchange.sol
@@ -28,12 +26,15 @@ project.m/
 ├── src/                      # React frontend
 ├── test/                     # Smart contract tests
 └── .gitignore                # Git ignore file
+
 📧 Technologies Used
 Solidity: For smart contract development.
 Hardhat: For deploying and testing contracts.
 React: Frontend for DEX interaction.
 JavaScript: For dynamic frontend features and testing.
 🛠️ How to Run Locally
+Clone the repository:
+
 Clone the repository:
 
 bash
@@ -62,5 +63,5 @@ The app will be available at http://localhost:3000.
 
 🔗 Connect with Me
 GitHub: BladeCMD
-Twitter: @
-TikTok: @
+Twitter: @Y
+TikTok: @Y
